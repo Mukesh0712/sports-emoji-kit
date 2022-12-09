@@ -4,4 +4,4 @@
 
 ### Simple Emoji Toolkit to change background color, size, and rotation of emoji.
 
-[Live Link](https://sports-emoji-kit.netlify.app/)
+[Live Link]: https://sports-emoji-kit.netlify.app/
