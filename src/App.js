@@ -20,7 +20,7 @@ const App = () => {
 
           <div className='sub-container-1' style={{backgroundColor: emojiColor, transform: `rotate(${emojiDeg*3.6}deg)`}}>
 
-            <div className='main-emoji-container' style={{fontSize: `${emojiSize * 2}px`}}>
+            <div className='main-emoji-container' style={{fontSize: `${emojiSize}px`}}>
               <div className='main-emoji'>
                 {emoji}
               </div>
